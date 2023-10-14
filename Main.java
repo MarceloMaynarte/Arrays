@@ -25,7 +25,7 @@ public class Main {
         System.out.println("Notas aluno 1: " + totalAluno1 / notasAluno1.length);
 
 
-            //Declarando array de ua forma direta
+            //Declarando array de uma forma direta
         double[] notasAluno2 = {5.7, 9.4, 5.8, 3.5, 6.8} ;
 
         System.out.println(Arrays.toString(notasAluno2));
